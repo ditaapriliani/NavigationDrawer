@@ -71,6 +71,15 @@ Screen1  Screen2  Screen3
 
 ---
 
+---
+### Screenshot Aplikasi
+<p align="center">
+<img width="1080" height="2340" alt="menuutama" src="https://github.com/user-attachments/assets/7d59b79a-4484-4d93-9091-3bd72a0d6f44" />
+<img width="1080" height="2340" alt="nav" src="https://github.com/user-attachments/assets/48441bc1-6e76-4c7e-a0e6-0e2577264365" />
+</p>
+
+---
+
 ### Dependencies Utama
 
 | Library                | Kegunaan                          |
@@ -86,7 +95,3 @@ Screen1  Screen2  Screen3
 
 Semua warna tersimpan di `res/values/color.xml` dan diduplikasi 
 di `Color.kt` untuk penggunaan di Compose.
-
----
-
-Copyright Disiapkan oleh Kukuh Yudhistiro - 2026
