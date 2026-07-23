@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/caches/
+.idea/libraries/
+.idea/workspace.xml
+
+# Local SDK configuration
+local.properties
+
+# Log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
